@@ -1,0 +1,6 @@
+{
+  "name": "CampusCart",
+  "description": "Campus-adjacent cleaning and household essentials for DGU MBA students in Dehradun with scheduled delivery and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
